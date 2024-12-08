@@ -16,8 +16,7 @@ This project is a Single Page Website designed for selling chips online. It show
 
 ## Demo
 
-Provide a live demo link if your website is deployed.  
-Example: [Live Demo](https://yourwebsite.com)
+[Live Demo](https://chips-selling.netlify.app)
 
 ## Technologies Used
 
@@ -29,4 +28,4 @@ Example: [Live Demo](https://yourwebsite.com)
 
 ![preview img](/preview.png)
 
-💙 Join with us in social to see more videos like this. [Bedimcode](https://www.youtube.com/@Bedimcode)
+💙 Join with us on [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)
