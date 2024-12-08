@@ -28,4 +28,4 @@ This project is a Single Page Website designed for selling chips online. It show
 
 ![preview img](/preview.png)
 
-💙 Join with us on [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)
+💙 Join us on [LinkedIn](https://www.linkedin.com/in/khatibullah-rahel-a93a74281/)
